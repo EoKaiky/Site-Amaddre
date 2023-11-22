@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+form {
+    color: white;
+    font-family: 'Abril Fatface', serif;
+    max-width: 50%;
+    height: auto;
+    margin-left: 340px;
+    margin-top: 100px;
+}
+
+.title2 {
+    font-family: 'Abril Fatface', serif;
+    color: white;
+    font-size: 30px;
+    margin-left: 275px;
+    margin-top: 80px;
+}

@@ -4,6 +4,7 @@
     position: relative;
 }
 
+
 .textPrincipal {
     font-family: 'Abril Fatface', serif;
     position: absolute;
@@ -31,4 +32,19 @@
     max-width: 18rem;
     width: auto;
     height: auto;
+}
+
+.navbar-brand {
+    height: auto;
+    width: 120px;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.molho {
+    display: flex;
+    max-width: 100%;
+    max-height: auto;
 }
